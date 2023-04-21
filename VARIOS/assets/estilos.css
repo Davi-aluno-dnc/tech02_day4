@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Inter:wght@300;500&family=Montserrat:wght@400;700&family=Poppins:wght@100&family=Raleway:ital,wght@0,700;1,400&display=swap');
+
+body{
+    background: #F5F5F5;
+    font-family: "Raleway";
+}
+
+.menu{
+
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #F5F5F5;
+}
+
+#hd1{
+    background: #76BEBE;
+    color: #F5F5F5;
+    font-family: 'Raleway';
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #F5F5F5;
+    text-decoration: none;
+}
